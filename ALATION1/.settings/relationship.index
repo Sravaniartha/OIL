@@ -1,5 +1,32 @@
 [ {
   "baseItem" : {
+    "id" : "_5JWUYKf8Ee-q6rE2pN6WFA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_UDxnYKflEe-q6rE2pN6WFA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ZUsfkKcCEe-7IJZL_LOMsA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_UDxnYKflEe-q6rE2pN6WFA - byproductstransport",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ZUsfkKcCEe-7IJZL_LOMsA - refineryoutput",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_ZUsfkKcCEe-7IJZL_LOMsA - refrefinery",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_Fhpy4KcCEe-7IJZL_LOMsA",
     "version" : "0.1",
     "type" : "job"

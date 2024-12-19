@@ -25,4 +25,31 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_uzj8UKisEe-W-ty9z3nKlQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_UDxnYKflEe-q6rE2pN6WFA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gvyhkKiWEe-si_C2ytDIEw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gvyhkKiWEe-si_C2ytDIEw - byproductstransport",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gvyhkKiWEe-si_C2ytDIEw - refmaterials",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_gvyhkKiWEe-si_C2ytDIEw - reftransportmodes",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]

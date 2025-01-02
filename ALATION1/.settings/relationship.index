@@ -54,6 +54,25 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_OMQ_IMQ5Ee-W4dk4kR3pew",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_PIRFoMQ_Ee-W4dk4kR3pew",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_PIRFoMQ_Ee-W4dk4kR3pew - CRUDEOILQUALITY",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_PIRFoMQ_Ee-W4dk4kR3pew - REFREFINERY",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_RT0qYKi4Ee-W-ty9z3nKlQ",
     "version" : "0.1",
     "type" : "job"

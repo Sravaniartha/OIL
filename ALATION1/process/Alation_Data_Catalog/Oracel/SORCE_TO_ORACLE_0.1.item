@@ -218,7 +218,7 @@
         <mapperTableEntries name="YEAR" expression="row1.YEAR " type="id_String" nullable="true"/>
         <mapperTableEntries name="SULPHURWEIGHTEDAVG" expression="row1.SULPHURWEIGHTEDAVG " type="id_BigDecimal" nullable="true"/>
         <mapperTableEntries name="APIGRAVITYWEIGHTEDAVG" expression="row1.APIGRAVITYWEIGHTEDAVG " type="id_BigDecimal" nullable="true"/>
-        <mapperTableEntries name="REFINERYNAME" expression="row2.REFINERY_NAME.toUpperCase() " type="id_String"/>
+        <mapperTableEntries name="REFINERYNAME" expression="row2.REFINERYNAME.toUpperCase() " type="id_String"/>
         <mapperTableEntries name="LOCATION" expression="row2.LOCATION " type="id_String" nullable="true"/>
       </outputTables>
       <inputTables sizeState="INTERMEDIATE" name="row1" matchingMode="UNIQUE_MATCH" lookupMode="LOAD_ONCE">

@@ -527,7 +527,7 @@
   </node>
   <node componentName="tOracleConnection" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="0" posY="40">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tDBConnection_1" show="false"/>
-    <elementParameter field="CLOSED_LIST" name="CONNECTION_TYPE" value="ORACLE_SID"/>
+    <elementParameter field="CLOSED_LIST" name="CONNECTION_TYPE" value="ORACLE_SERVICE_NAME"/>
     <elementParameter field="CLOSED_LIST" name="DB_VERSION" value="ORACLE_18"/>
     <elementParameter field="TEXT" name="RAC_URL" value="&quot;&quot;" show="false"/>
     <elementParameter field="CHECK" name="USE_TNS_FILE" value="false"/>
@@ -537,16 +537,16 @@
     <elementParameter field="TEXT" name="TYPE" value="Oracle" show="false"/>
     <elementParameter field="TEXT" name="PORT" value="&quot;1521&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;pdb1&quot;"/>
-    <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;&quot;" show="false"/>
+    <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;pdb1&quot;" show="false"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;TDC&quot;"/>
     <elementParameter field="TEXT" name="USER" value="&quot;TDC&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:P4KYG7zarflhfGxTEI22/cKlM/44frDpE96r1Vf9gy1h"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:xwASQotkzXDGYcutkDkRzhYgNJ2/IIGxbDzgzQxl3rgw"/>
     <elementParameter field="CHECK" name="USE_SSL" value="false" show="false"/>
     <elementParameter field="FILE" name="SSL_TRUSTSERVER_TRUSTSTORE" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="SSL_TRUSTSERVER_PASSWORD" value="enc:system.encryption.key.v1:fC1pKCnLjFeqbUdwOlxwdAFQ7mttsLQaFm41uNXk" show="false"/>
+    <elementParameter field="PASSWORD" name="SSL_TRUSTSERVER_PASSWORD" value="enc:system.encryption.key.v1:MvSJO7qo1D1liQxRslkkmitR0On/AKwW9iHg75h5" show="false"/>
     <elementParameter field="CHECK" name="NEED_CLIENT_AUTH" value="false" show="false"/>
     <elementParameter field="FILE" name="SSL_KEYSTORE" value="&quot;&quot;" show="false"/>
-    <elementParameter field="PASSWORD" name="SSL_KEYSTORE_PASSWORD" value="enc:system.encryption.key.v1:qXECB4VsCQxv57f8omHwP1/n4afN0HbnmpjEU5ed" show="false"/>
+    <elementParameter field="PASSWORD" name="SSL_KEYSTORE_PASSWORD" value="enc:system.encryption.key.v1:Xk63Ig+mQHvfcnGP0lPyNvirRow52mkvWiWkMfn5" show="false"/>
     <elementParameter field="CHECK" name="DISABLE_CBC_PROTECTION" value="true" show="false"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" value="&quot;ISO-8859-15&quot;" show="false"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
